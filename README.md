@@ -8,7 +8,7 @@ Hi there 👋
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Magilo-Ayuen)              
 
-                     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Magilo-Ayuen&theme=tokyonight)](https://github.com/Magilo-Ayuen/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Magilo-Ayuen&theme=tokyonight)](https://github.com/Magilo-Ayuen/github-readme-streak-stats)
 
 
 
