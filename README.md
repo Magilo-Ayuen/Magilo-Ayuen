@@ -8,3 +8,5 @@ Hi there 👋
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Magilo-Ayuen)
 
+
+![Magilo-Ayuen's github stats](https://github-readme-stats.vercel.app/api?username=Magilo-Ayuen)
